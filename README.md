@@ -1,7 +1,5 @@
 # Article Insight Analyzer
 
-![App Screenshot](https://github.com/Pags2003/News-Summarizer/blob/main/screenshorts/analysis_example.png?raw=true) 
-
 A modern GUI application that analyzes news articles, providing summaries and sentiment analysis with visual feedback.
 
 ## Features
