@@ -1,6 +1,6 @@
 # Article Insight Analyzer
 
-![App Screenshot](screenshots/main_window.png) <!-- Replace with your actual screenshot -->
+![App Screenshot]([screenshots/main_window.png](https://github.com/Pags2003/News-Summarizer/blob/8861a2dcd52e86ec08911036a359a32c5c01b169/screenshorts/analysis_example.png)) <!-- Replace with your actual screenshot -->
 
 A modern GUI application that analyzes news articles, providing summaries and sentiment analysis with visual feedback.
 
@@ -14,10 +14,10 @@ A modern GUI application that analyzes news articles, providing summaries and se
 
 ## Screenshots
 
-![Analysis Example](screenshots/analysis_example.png) <!-- Replace with your actual screenshot -->
+![Analysis Example]([screenshots/analysis_example.png](https://github.com/Pags2003/News-Summarizer/blob/main/screenshorts/analysis_example.png?raw=true)) <!-- Replace with your actual screenshot -->
 *Example of article analysis with positive sentiment*
 
-![Error Handling](screenshots/error_message.png) <!-- Replace with your actual screenshot -->
+![Error Handling]([screenshots/error_message.png](https://github.com/Pags2003/News-Summarizer/blob/8861a2dcd52e86ec08911036a359a32c5c01b169/screenshorts/error_message.png)) <!-- Replace with your actual screenshot -->
 *Error handling for invalid URLs*
 
 ## Installation
@@ -32,13 +32,9 @@ A modern GUI application that analyzes news articles, providing summaries and se
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/article-insight-analyzer.git
-   cd article-insight-analyzer
+   cd News-Summarizer
    ```
-2. Install required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-    Or install them manually:
+2. Install them manually:
     ```bash
     pip install requests beautifulsoup4 readability-lxml sumy nltk ttkbootstrap pillow
     ```
@@ -57,16 +53,14 @@ A modern GUI application that analyzes news articles, providing summaries and se
     d. Detailed sentiment scores below
 
 ## Requirements
-The requirements.txt file includes:
-    ```bash
-    requests>=2.26.0
-    beautifulsoup4>=4.10.0
-    readability-lxml>=0.8.1
-    sumy>=0.10.0
-    nltk>=3.6.7
-    ttkbootstrap>=1.5.1
-    Pillow>=9.0.1
-    ```
+   requests>=2.26.0
+   beautifulsoup4>=4.10.0
+   readability-lxml>=0.8.1
+   sumy>=0.10.0
+   nltk>=3.6.7
+   ttkbootstrap>=1.5.1
+   Pillow>=9.0.1
+    
 ## Technical Details
 * Text Extraction: Uses readability-lxml to extract main article content
 * Summarization: Implements LSA (Latent Semantic Analysis) via sumy
