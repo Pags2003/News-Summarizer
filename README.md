@@ -1,6 +1,6 @@
 # Article Insight Analyzer
 
-![App Screenshot]([screenshots/main_window.png](https://github.com/Pags2003/News-Summarizer/blob/8861a2dcd52e86ec08911036a359a32c5c01b169/screenshorts/analysis_example.png)) <!-- Replace with your actual screenshot -->
+![App Screenshot](https://github.com/Pags2003/News-Summarizer/blob/main/screenshorts/analysis_example.png?raw=true) 
 
 A modern GUI application that analyzes news articles, providing summaries and sentiment analysis with visual feedback.
 
@@ -14,10 +14,10 @@ A modern GUI application that analyzes news articles, providing summaries and se
 
 ## Screenshots
 
-![Analysis Example]([screenshots/analysis_example.png](https://github.com/Pags2003/News-Summarizer/blob/main/screenshorts/analysis_example.png?raw=true)) <!-- Replace with your actual screenshot -->
+![Analysis Example](https://github.com/Pags2003/News-Summarizer/blob/main/screenshorts/analysis_example.png?raw=true) 
 *Example of article analysis with positive sentiment*
 
-![Error Handling]([screenshots/error_message.png](https://github.com/Pags2003/News-Summarizer/blob/8861a2dcd52e86ec08911036a359a32c5c01b169/screenshorts/error_message.png)) <!-- Replace with your actual screenshot -->
+![Error Handling](https://github.com/Pags2003/News-Summarizer/blob/main/screenshorts/error_message.png?raw=true) 
 *Error handling for invalid URLs*
 
 ## Installation
